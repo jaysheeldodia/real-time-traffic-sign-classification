@@ -1,0 +1,9 @@
+path: ./dataset
+train: images
+val: images
+
+names:
+  0: no-stopping 
+  1: sl-30 
+  2: crosswalk 
+  3: no-parking 
