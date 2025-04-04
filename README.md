@@ -20,18 +20,12 @@ The code is contained within the notebook `traffic_sign_detection.ipynb`.
 ### Input Video
 Watch the input video used for inference:
 
-<video width="640" height="480" controls>
-  <source src="input/input.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://drive.google.com/file/d/1vGlx6YHp81V7rkBs_7qipC62yvA6mzjr/view
 
 ### Output Video
 Watch the output video displaying the detection results:
 
-<video width="640" height="480" controls>
-  <source src="output/output.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://drive.google.com/file/d/1ZBj81Vppde-MAgm8LmhqPvyTuN3Vw8ew/view
 
 ---
 
